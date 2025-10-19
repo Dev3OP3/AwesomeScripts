@@ -1,3 +1,29 @@
+# 🧠 AwesomeScripts
+
+A collection of **day-to-day useful scripts** written in various programming languages.  
+Unlike typical algorithm repositories, this project focuses on **hands-on, practical scripts** that solve daily problems for developers, students, and tech enthusiasts!
+
+---
+
+## 🚀 About
+
+This repository is created for open-source contribution during **Hacktoberfest 2025**.  
+You can add any of your personal or helpful scripts here — automation, productivity tools, file handling, math utilities, text formatters, network tools, etc.  
+Avoid algorithm-only code; submit **scripts that people might actually use**.
+
+---
+
+## 🧩 How to Contribute
+
+1. **Fork** this repository  
+2. **Clone** your fork
+3. **Create a new branch**
+4. **Add your script**
+- Create or use a folder with the language name, e.g., `Python/`, `Bash/`, `JavaScript/`, etc.
+- Add your `.py`, `.js`, `.sh`, etc., file there.
+- Include a small comment in your script describing what it does.
+5. **Commit your changes**
+6. **Push to GitHub**
 7. **Create a Pull Request**
 - Go to your forked repo and press **“Compare & pull request”**.
 - Add a short description and submit your PR.
